@@ -1,0 +1,21 @@
+---
+title: "  " 
+image: "patho_anx.jpeg"
+about:
+  template: trestles
+  links:
+    - icon: github
+    - text: C. MILLER'S GITHUB
+    - href: https://github.com/miller-c-r
+---
+
+###### *Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety.*
+
+#### CUNY Brooklyn College 2024 My Presentation
+## 
+
+##### Created by
+
+##### C. Miller, Brooklyn College
+
+###### Fall 2024
