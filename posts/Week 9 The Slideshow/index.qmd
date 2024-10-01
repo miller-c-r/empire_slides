@@ -3,7 +3,7 @@ title: "Week 9 An Uprising"
 format:
   revealjs:
     incremental: true
-    theme: solarized
+    theme: [default, style.scss]
     transition: slide
 editor: visual
 execute:
@@ -12,7 +12,21 @@ execute:
 
 ## Navigation Link
 
-[HOMEPAGE]()
-[default, style.scss]
+[HOMEPAGE](https://miller-c-r.github.io/empire_slides/)
 
-[LINK >>> TAKING HAITI PDF](Taking Haiti Military Occupation.pdf)
+
+[LINK ]()
+
+
+
+## Text:
+
+Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition. 
+
+
+##  Zinn, Chapter 12
+
+## I. D. BARNETT ET AL., OPEN LETTER TO PRESIDENT MCKINLEY BY COLORED PEOPLE OF MASSACHUSETTS (OCTOBER 3, 1899)
+
+## MISSIONARY DEPARTMENT OF THE ATLANTA, GEORGIA, A.M.E. CHURCH, “THE NEGRO SHOULD NOT ENTER THE ARMY” (MAY 1, 1899)
+
