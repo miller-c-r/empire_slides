@@ -3,7 +3,7 @@ title: "Week 9 An Uprising"
 format:
   revealjs:
     incremental: true
-    theme: [default, style.scss]
+    theme: solarized
     transition: slide
 editor: visual
 execute:
@@ -13,3 +13,6 @@ execute:
 ## Navigation Link
 
 [HOMEPAGE]()
+[default, style.scss]
+
+[LINK >>> TAKING HAITI PDF](Taking Haiti Military Occupation.pdf)
