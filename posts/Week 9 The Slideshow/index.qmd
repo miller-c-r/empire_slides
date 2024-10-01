@@ -10,7 +10,14 @@ execute:
   echo: false
 ---
 
+
+## Voice 
+
+[1900 Atlanta Newspaper Voice in Missions](https://www.loc.gov/item/sn83016234/1900-02-01/ed-1/)
+
 ## Navigation Link
+
+
 
 [HOMEPAGE](https://miller-c-r.github.io/empire_slides/)
 
