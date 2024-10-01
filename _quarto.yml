@@ -5,7 +5,7 @@ project:
     - "img_cm/"
     - "articles"
 website:
-  title: "Empires and American Identity: A C Miller Presentation"
+  title: "A C Miller Presentation"
   navbar:
     left:
       - about.qmd
