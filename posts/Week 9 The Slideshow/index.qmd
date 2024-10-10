@@ -1,5 +1,5 @@
 ---
-title: "Week 9 An Uprising"
+title: "July 28, 1866"
 format:
   revealjs:
     incremental: true
@@ -10,31 +10,33 @@ execute:
   echo: false
 ---
 
+## Inception of Negro Regiments and Cavalry
 
-##### Troop C, 9th Cavalry, at Camp Lawton, Washington, before being sent to the Philippines in 1900. 
+National Archives:
 
+On July 28, 1866, the United States Congress passed legislation to establish two cavalry (**9th** and **10th**) and four infantry regiments,
 
+(**38th**, **39th**, **40th,** and **41st**) to be made up of African American enlisted men.
 
-![](9th.png){.absolute bottom="50" right="50" width="921" height="500"}
-[National Park Service](https://www.nps.gov/prsf/learn/historyculture/the-philippine-insurrectiothe-philippine-war-a-conflict-of-consciencen-a-war-of-controversy.htm)
+Three years later in 1869, the four infantry regiments were consolidated into two regiments, the **24th** and **25th** Infantry.
 
+## Inception of Negro Regiments and Cavalry
+
+The troops were paid thirteen dollars a month, plus room, board and clothing. Enlistment was for five years.
+
+Almost immediately these new regiments were transferred to the western states and territories for service on the American frontier.
+
+**More information:** Researching African Americans in the U.S. Army, 1866-1890 \| National Archives. https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html
 
 ## Members of the Twenty-fifth U.S. Infantry at Fort Snelling, Minnesota, ca. 1880s. (NARA, 111-SC-83638)
 
 ![](25th-us-infantry-fort-snelling.jpg){.absolute bottom="50" right="50" width="275" height="341"}
 
-
-
-
 https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html
 
-## Members of the 9th and 10th Cavalry were sent to the Philippines as reinforcements Troop C, 9th Cavalry, at Camp Lawton, Washington, before being sent to the Philippines in 1900. 
+## Members of the 9th and 10th Cavalry were sent to the Philippines as reinforcements Troop C, 9th Cavalry, at Camp Lawton, Washington, before being sent to the Philippines in 1900.
 
 ![](9th.png){.absolute bottom="50" right="50"}
-
-## Inception of Negro Regiments and Cavalry
-
-On July 28, 1866, the United States Congress passed legislation to establish two cavalry (9th and 10th) and four infantry regiments, (38th, 39th, 40th, and 41st) to be made up of African American enlisted men. (2) Three years later in 1869, the four infantry regiments were consolidated into two regiments, the 24th and 25th Infantry. The troops were paid thirteen dollars a month, plus room, board and clothing. Enlistment was for five years. Almost immediately these new regiments were transferred to the western states and territories for service on the American frontier.
 
 ## The End of the Spanish American War
 
@@ -64,29 +66,25 @@ Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States
 
 ## Zinn, Chapter 12 Page 244
 
-
 [Link \>\> ZINN VOICES PDF](TEXTBOOK%20ZINN%20VOICES.pdf)
 
 ## MISSIONARY DEPARTMENT OF THE ATLANTA, GEORGIA, A.M.E. CHURCH, “THE NEGRO SHOULD NOT ENTER THE ARMY” (MAY 1, 1899)
 
 [Link \>\> ZINN VOICES PDF](TEXTBOOK%20ZINN%20VOICES.pdf)
 
-
 ## The Negro has no Flag to Defend
+
 He has no civil, social, political, judicial or existing rights any longer. He may exist, be or live till the lynchers
 
 ## subordinate it to the dictatorial whim of the United States.
 
 THe Morality of the War
 
-
 ## The Cuban Man in the Jim Crow Train Car
-
 
 Faced violence if he did not ride in the Jim Crow car since the arrival of Americans
 
 ## If you have a spare life on hand, that you wish to dispose of by sacrifice,
-
 
 throw it away for a better purpose, in a nobler act, in doing something that will perpetuate your memory,
 
@@ -98,22 +96,14 @@ Ida Wells-Barnett spoke on "Mob violence and Anarchy, North and South." She said
 
 -- Cleveland Gazette, January 7, 1899, from an account of a meeting of the Afro-American Council, Washington D.C.
 
-## References 
+## References
 
-
-Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition. 
-Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition. 
-
+Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition. Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition.
 
 Francisco, Mailing Address: 201 Fort Mason San, et al. The Philippine War - A Conflict of Conscience for African Americans - Presidio of San Francisco (U.S. National Park Service). https://www.nps.gov/prsf/learn/historyculture/the-philippine-insurrectiothe-philippine-war-a-conflict-of-consciencen-a-war-of-controversy.htm. Accessed 7 Oct. 2024.
 
-
-
-Researching African Americans in the U.S. Army, 1866-1890 | National Archives. https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html. Accessed 7 Oct. 2024.
-
+Researching African Americans in the U.S. Army, 1866-1890 \| National Archives. https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html. Accessed 7 Oct. 2024.
 
 Voice of Missions. (Atlanta, GA) 1 Feb. 1900, p. 2. Retrieved from the Library of Congress, www.loc.gov/item/sn83016234/1900-02-01/ed-1/.
-
-
 
 Zinn, Howard; Arnove, Anthony. Voices of a People's History of the United States, 10th Anniversary Edition . Seven Stories Press. Kindle Edition.
