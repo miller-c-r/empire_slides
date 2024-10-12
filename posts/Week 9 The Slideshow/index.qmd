@@ -56,7 +56,7 @@ https://www.nps.gov/prsf/learn/historyculture/the-philippine-insurrectiothe-phil
 
 Zinn, Chapter 12 Page 244
 
-![](thetext.png){.absolute bottom="50" left="500"}
+![](thetext.png){.absolute bottom="50" left="500" width="570"}
 
 ## Voice of Missions 1893-1900
 
@@ -90,7 +90,7 @@ African Americans were not just facing acts of violence amidst reconstruction in
 
 Before the United States military looked to its imperialistic aspirations it should first see to enforcing the rights and protections for all of its citizens
 
-## Ida B. Wells-Barnett NPS
+## Ida B. Wells-Barnett 
 
 ![](ida.png){.absolute bottom="50" left="500" size="200px" width="579"}
 
