@@ -3,7 +3,7 @@ title: "July 28, 1866"
 format:
   revealjs:
     incremental: true
-    theme: default
+    theme: [default, style.scss]
     transition: slide
 editor: visual
 execute:
@@ -28,13 +28,15 @@ Almost immediately these new regiments were transferred to the western states an
 
 **More information:** Researching African Americans in the U.S. Army, 1866-1890 \| National Archives. https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html
 
-## Members of the Twenty-fifth U.S. Infantry at Fort Snelling, Minnesota, ca. 1880s. (NARA, 111-SC-83638)
+## Members of the Twenty-fifth U.S. Infantry
 
 ![](25th-us-infantry-fort-snelling.jpg){.absolute bottom="50" right="50" width="275" height="341"}
 
-https://www.archives.gov/publications/prologue/2001/spring/buffalo-soldiers.html
+Fort Snelling, Minnesota, ca. 1880s
 
-## Members of the 9th and 10th Cavalry were sent to the Philippines as reinforcements Troop C, 9th Cavalry, at Camp Lawton, Washington, before being sent to the Philippines in 1900.
+## Members of the 9th and 10th Cavalry
+
+They were sent to the Philippines as reinforcements Troop C, 9th Cavalry, at Camp Lawton, Washington, before being sent to the Philippines in 1900.
 
 ![](9th.png){.absolute bottom="50" right="50"}
 
@@ -72,7 +74,7 @@ Zinn, Chapter 12 Page 244
 
 Bishop Henry McNeal Turner
 
-![](loc_voice.png){.absolute bottom="50" left="500" size="200px"}
+![](loc_voice.png){.absolute bottom="50" left="500" size="200px" width="584"}
 
 ## The Negro has no Flag to Defend
 
@@ -90,7 +92,7 @@ Before the United States military looked to its imperialistic aspirations it sho
 
 ## Ida B. Wells-Barnett NPS
 
-![](ida.png){.absolute bottom="50" left="500" size="200px"}
+![](ida.png){.absolute bottom="50" left="500" size="200px" width="579"}
 
 ## The Morality of the War and the Negro Soldier
 
@@ -111,7 +113,6 @@ That enlisting in America's military would be throwing their lives away.
 "If you have a spare life on hand, throw it away for a better purpose,"
 
 ## References
-
 
 Francisco, Mailing Address: 201 Fort Mason San, et al. The Philippine War - A Conflict of Conscience for African Americans - Presidio of San Francisco (U.S. National Park Service). https://www.nps.gov/prsf/learn/historyculture/the-philippine-insurrectiothe-philippine-war-a-conflict-of-consciencen-a-war-of-controversy.htm. Accessed 7 Oct. 2024.
 
